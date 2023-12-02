@@ -1,0 +1,15 @@
+R is an interpreted programming Language.
+R is the modern implementation of S language.
+R is developed by Ross Ihaka nad Robert Gentlemen in NZ
+
+
+R is a procedural as well as object oriented language.
+
+Open source, cross-platform support.
+
+MLR(machine learning for R) package is popular.
+
+We can connect R with different databases like Spark and Hadoop (big data)
+
+TensorFlow and Keras work with R as well (they make python API calls in the backend)
+
